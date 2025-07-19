@@ -1,1 +1,2 @@
 # Analyzing-Healthcare-Data_project
+This Power BI case study was conducted using a real-world dataset to uncover insights into hospital efficiency for a fictional consulting company. Key attributes affecting patient length of stay (LOS), cost, and workload were leveraged to identify factors contributing to differences among hospitals. DAX was used to create measures and generate insightful visualizations. Finally, all findings were brought together in a sophisticated business dashboard to effectively communicate the insights.
